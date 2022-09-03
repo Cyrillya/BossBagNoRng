@@ -1,0 +1,71 @@
+﻿这个Mod优化了原版所有宝藏袋的物品掉率
+以下是该Mod所作调整的列表:
+
+所有宝藏袋:
+- 必开出相应Boss的纪念章
+史莱姆王宝藏袋:
+- 粘鞍几率调整为100%
+- 忍者套一次开出全套
+克苏鲁之眼宝藏袋:
+- 猩红矿/魔矿必开出最大数量(87个)
+独眼巨鹿宝藏袋:
+- 眼骨、眼球伞、收音机将一次性全部开出
+血肉墙宝藏袋:
+- 四徽章将一次性全部开出
+史莱姆皇后宝藏袋:
+- 明胶女式鞍几率调整为100%
+- 失谐钩爪几率调整为100%
+- 水晶刺客套一次开出全套
+机械三王宝藏袋:
+- 神圣锭必开出最大数量(35个)
+- 相应魂必开出最大数量(40个)
+世纪之花宝藏袋:
+- 刺钩几率调整为100%
+石巨人宝藏袋:
+- 锯刃镐几率调整为100%
+- 甲虫外壳必开出最大数量(23个)
+猪龙鱼公爵宝藏袋:
+- 猪龙鱼之翼几率调整为25%
+光之女皇宝藏袋:
+- 女皇之翼几率调整为25%
+双足翼龙宝藏袋:
+- 双足翼龙之翼几率调整为25%
+- 护卫奖章必开出最大数量(49个)
+
+如果有Bug或是建议欢迎到Discord服务器讨论: https://discord.gg/rEmGMQv5z7
+
+This mod optimizes the drop rate of the items in the vanilla Treasure Bag
+Here is the list of adjustments made by the mod:
+
+All treasure bags:
+- Includes the trophy of the corresponding boss
+King Slime Treasure Bag:
+- Slimy Saddle drop rate adjusted to 100%
+- Ninja set will be dropped all at once
+Eye of Cthulhu Treasure Bag:
+- The most crimtane/demonite ores will be dropped (87)
+Deerclops Treasure Bag:
+- Eye Bone, Eyebrella and Radio Thing will be dropped all at once
+Wall of Flesh Treasure Bag:
+- All four emblems will be dropped all at once
+Queen Slime Treasure Bag:
+- Gelatinous Pillion drop rate adjusted to 100%
+- Hook of Dissonance drop rate adjusted to 100%
+- Crystal Assassin set will be dropped all at once
+Mechanical Bosses Treasure Bags:
+- The most hallowed bars will be dropped (35)
+- The most souls will be dropped (40 for all)
+Plantera Treasure Bag:
+- Thorn Hook drop rate adjusted to 100%
+Stone Giant Treasure Bag:
+- Picksaw drop rate adjusted to 100%
+- The most beetle husks will be dropped (23)
+Duke Fishron Treasure Bag:
+- Fishron Wings drop rate adjusted to 25%
+Empress of Light Treasure Bag:
+- Empress Wings drop rate adjusted to 25%
+Betsy Treasure Bag:
+- Betsy's Wings drop rate adjusted to 100%
+- The most defender medals will be dropped (49)
+
+If you find bugs or have any suggestions, feel free to discuss on Discord server: https://discord.gg/rEmGMQv5z7

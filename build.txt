@@ -1,0 +1,3 @@
+displayName = Better Treasure Bag Loot
+author = -Cyril-
+version = 1.0
