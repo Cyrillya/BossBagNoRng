@@ -90,11 +90,11 @@ namespace BossBagNoRng
                         break;
                     }
                 case ItemID.FishronBossBag: {
-                        TweakCommonDropChance(loots, ItemID.FishronWings, 4);
+                        TweakCommonDropChance(loots, ItemID.FishronWings, 1);
                         break;
                     }
                 case ItemID.FairyQueenBossBag: {
-                        TweakCommonDropChance(loots, ItemID.RainbowWings, 4);
+                        TweakCommonDropChance(loots, ItemID.RainbowWings, 1);
                         break;
                     }
                 case ItemID.BossBagBetsy: {

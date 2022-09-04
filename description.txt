@@ -25,11 +25,11 @@
 - 锯刃镐几率调整为100%
 - 甲虫外壳必开出最大数量(23个)
 猪龙鱼公爵宝藏袋:
-- 猪龙鱼之翼几率调整为25%
+- 猪龙鱼之翼几率调整为100%
 光之女皇宝藏袋:
-- 女皇之翼几率调整为25%
+- 女皇之翼几率调整为100%
 双足翼龙宝藏袋:
-- 双足翼龙之翼几率调整为25%
+- 双足翼龙之翼几率调整为100%
 - 护卫奖章必开出最大数量(49个)
 
 如果有Bug或是建议欢迎到Discord服务器讨论: https://discord.gg/rEmGMQv5z7
@@ -57,13 +57,13 @@ Mechanical Bosses Treasure Bags:
 - The most souls will be dropped (40 for all)
 Plantera Treasure Bag:
 - Thorn Hook drop rate adjusted to 100%
-Stone Giant Treasure Bag:
+Golem Treasure Bag:
 - Picksaw drop rate adjusted to 100%
 - The most beetle husks will be dropped (23)
 Duke Fishron Treasure Bag:
-- Fishron Wings drop rate adjusted to 25%
+- Fishron Wings drop rate adjusted to 100%
 Empress of Light Treasure Bag:
-- Empress Wings drop rate adjusted to 25%
+- Empress Wings drop rate adjusted to 100%
 Betsy Treasure Bag:
 - Betsy's Wings drop rate adjusted to 100%
 - The most defender medals will be dropped (49)
