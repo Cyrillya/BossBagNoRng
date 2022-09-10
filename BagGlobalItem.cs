@@ -34,12 +34,13 @@ namespace BossBagNoRng
                         var eyeboneRule = (OneFromOptionsNotScaledWithLuckDropRule)loots.FirstOrDefault(i =>
                             i is OneFromOptionsNotScaledWithLuckDropRule rule &&
                             rule.dropIds.Contains(ItemID.Eyebrella));
-                        if (eyeboneRule != null) {
+                        if (eyeboneRule is not null) {
                             foreach (var dropId in eyeboneRule.dropIds) {
                                 itemLoot.Add(ItemDropRule.Common(dropId));
                             }
 
-                            itemLoot.Remove(eyeboneRule);
+                            // removed for cross-mod compatibility
+                            // itemLoot.Remove(eyeboneRule);
                         }
                         break;
                     }
@@ -47,12 +48,13 @@ namespace BossBagNoRng
                         var emblemRule = (OneFromOptionsNotScaledWithLuckDropRule)loots.FirstOrDefault(i =>
                             i is OneFromOptionsNotScaledWithLuckDropRule rule &&
                             rule.dropIds.Contains(ItemID.WarriorEmblem));
-                        if (emblemRule != null) {
+                        if (emblemRule is not null) {
                             foreach (var dropId in emblemRule.dropIds) {
                                 itemLoot.Add(ItemDropRule.Common(dropId));
                             }
 
-                            itemLoot.Remove(emblemRule);
+                            // removed for cross-mod compatibility
+                            // itemLoot.Remove(emblemRule);
                         }
                         break;
                     }
@@ -112,8 +114,9 @@ namespace BossBagNoRng
             (CommonDropNotScalingWithLuck)loots.FirstOrDefault(i => i is CommonDropNotScalingWithLuck rule && rule.itemId == itemId);
 
         public static void TweakCommonDropChance(List<IItemDropRule> loots, int itemId, int chanceDenominator) {
-            (loots.FirstOrDefault(i => i is CommonDropNotScalingWithLuck rule && rule.itemId == itemId) as
-                CommonDropNotScalingWithLuck)!.chanceDenominator = chanceDenominator;
+            var rule = loots.FirstOrDefault(i => i is CommonDropNotScalingWithLuck rule && rule.itemId == itemId);
+            if (rule is CommonDropNotScalingWithLuck luckRule)
+                luckRule.chanceDenominator = chanceDenominator;
         }
 
         public static void SetCommonDropMost(List<IItemDropRule> loots, int itemId) {

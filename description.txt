@@ -1,6 +1,8 @@
-﻿这个Mod优化了原版所有宝藏袋的物品掉率
+﻿这个Mod优化了原版所有宝藏袋与Boss宠物/坐骑物品的物品掉率，以让你不需要重复击杀某个Boss来获取他的某个战利品
 以下是该Mod所作调整的列表:
 
+Boss宠物/坐骑:
+- 几率调整为100%
 所有宝藏袋:
 - 必开出相应Boss的纪念章
 史莱姆王宝藏袋:
@@ -10,8 +12,10 @@
 - 猩红矿/魔矿必开出最大数量(87个)
 独眼巨鹿宝藏袋:
 - 眼骨、眼球伞、收音机将一次性全部开出
+- 以上物品会额外随机附加一个 (为了跨模组兼容性)
 血肉墙宝藏袋:
 - 四徽章将一次性全部开出
+- 四徽章会额外随机附加一个 (为了跨模组兼容性) (说的就是你灾厄)
 史莱姆皇后宝藏袋:
 - 明胶女式鞍几率调整为100%
 - 失谐钩爪几率调整为100%
@@ -34,9 +38,11 @@
 
 如果有Bug或是建议欢迎到Discord服务器讨论: https://discord.gg/rEmGMQv5z7
 
-This mod optimizes the drop rate of the items in the vanilla Treasure Bag
+This mod optimizes the drop rate of the items in the vanilla treasure bags and master pets and mounts, so you don't have to kill a boss over and over again to get a single loot
 Here is the list of adjustments made by the mod:
 
+Master pets and mounts from bosses:
+- Drop rate adjusted to 100%
 All treasure bags:
 - Includes the trophy of the corresponding boss
 King Slime Treasure Bag:
@@ -46,8 +52,10 @@ Eye of Cthulhu Treasure Bag:
 - The most crimtane/demonite ores will be dropped (87)
 Deerclops Treasure Bag:
 - Eye Bone, Eyebrella and Radio Thing will be dropped all at once
+- The above items will be randomly attached to an additional one (for cross-mod compatibility)
 Wall of Flesh Treasure Bag:
 - All four emblems will be dropped all at once
+- Emblems will be randomly attached to an additional one (for cross-mod compatibility) (especially for calamity)
 Queen Slime Treasure Bag:
 - Gelatinous Pillion drop rate adjusted to 100%
 - Hook of Dissonance drop rate adjusted to 100%

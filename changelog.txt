@@ -1,0 +1,2 @@
+﻿- Fixed possible mod errors when enabled with mods that changes the same treasure bag drops
+- Master pets and mounts from bosses drop rates adjusted to 100%
