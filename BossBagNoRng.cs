@@ -1,8 +1,7 @@
 using Terraria.ModLoader;
 
-namespace BossBagNoRng
+namespace BossBagNoRng;
+
+public class BossBagNoRng : Mod
 {
-    public class BossBagNoRng : Mod
-    {
-    }
 }
