@@ -2,4 +2,3 @@ displayName = Better Treasure Bag Loot
 author = -Cyril-
 version = 1.2.1
 homepage = https://github.com/Cyrillya/BossBagNoRng
-side = Server
